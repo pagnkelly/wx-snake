@@ -11,7 +11,7 @@ WX-snake
 
            
             
-![github](https://github.com/pagnkelly/wx-snake/blob/master/wx-snake/snake.png)
+![github](https://github.com/pagnkelly/wx-snake/blob/master/snake.png)
 
 
 有任何不懂得地方或者好的建议（最好show me your code）联系我吧！<br/>
